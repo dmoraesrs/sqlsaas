@@ -5,3 +5,4 @@
 *.tfstate
 *.tfstate.*
 *.code-workspace*
+*plan
